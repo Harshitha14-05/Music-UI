@@ -19,7 +19,7 @@ React or Vite
 
 # 📦 Installation & Setup
 # Clone the repo
-git clone 
+git clone https://github.com/Harshitha14-05/Music-UI.git
 cd music-player-ui
 
 # Install dependencies
